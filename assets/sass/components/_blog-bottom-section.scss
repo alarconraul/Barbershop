@@ -1,0 +1,25 @@
+.bottom-section__img-border{
+    border-radius: 140px;
+}
+
+.bottom-section__text-fontplayfair{
+    font-family: $fontPlayfair;
+    font-size: 40px;
+    font-weight: 700;
+    font-style: italic;
+}
+.bottom-section__text-orange{
+    color: $fuzzyWuzzyColor;
+    font-size: 19px;
+    &:hover{
+        color:$lightGrayColor;
+    }
+}
+.bottom-section__text-italic{
+    font-family: $fontRoboto;
+    font-style: italic;
+}
+
+.bottom-section__container{
+    margin-bottom: 30px;
+}

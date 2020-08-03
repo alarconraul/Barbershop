@@ -1,0 +1,10 @@
+.page-item:first-child .page-link {
+    margin-left: 0;
+    border-top-left-radius: 99.25rem;
+    border-bottom-left-radius: 99.25rem;
+}
+.page-item:last-child .page-link {
+    margin-left: 0;
+    border-top-right-radius: 99.25rem;
+    border-bottom-right-radius: 99.25rem;
+}

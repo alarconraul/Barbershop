@@ -1,0 +1,91 @@
+.logo {
+  width: 200px;
+}
+
+h1 {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: white;
+  font-family: "Playfair";
+  font-size: 70px;
+  font-weight: 700;
+  font-style: italic;
+  display: block;
+  position: absolute;
+  width: 100%;
+  padding-left: 150px;
+  top: 489px;
+}
+
+.main-title__image {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: auto;
+  display: block;
+  position: relative;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+h6 {
+  font-size: 22px;
+  color: gray;
+  font-family: "Playfair";
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+
+.card-body__text__font-roboto {
+  list-style: none;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: black;
+  font-family: "Roboto";
+}
+
+li {
+  margin-bottom: 20px;
+  margin-right: 26px;
+  margin-left: 20px;
+}
+
+.bottom-section_img_border {
+  border-radius: 140px;
+}
+
+.bottom-section__text__playfair {
+  font-family: "Playfair";
+  font-size: 40px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.bottom-section__text__colors {
+  color: #E56353;
+  font-size: 19px;
+}
+
+.bottom-section__text__italic {
+  font-family: "Roboto";
+  font-style: italic;
+}
+
+.container {
+  margin-bottom: 30px;
+}
+
+.logo-footer {
+  padding-left: 620px;
+}
+
+.btn-secondary {
+  background: gray;
+  border-radius: 30px;
+  margin-left: 30px;
+}
+
+.btn-secondary:hover {
+  background-color: lightgrey;
+}
+/*# sourceMappingURL=style.css.map */

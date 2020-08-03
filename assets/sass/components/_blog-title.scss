@@ -1,0 +1,26 @@
+h1{
+    justify-content: center;
+    color: white;
+    font-family: $fontPlayfair;
+    font-size: 70px;
+    font-weight: 700;
+    font-style: italic;
+    display: block;
+    position: absolute;
+    width: 100%;
+    padding-left: 150px;
+    top: 489px;
+}
+
+.main-title__image{
+    object-fit: cover;
+    height: auto;
+    display: block;
+    position: relative;
+    padding-bottom: 40px;
+    width: 100%;
+}
+.reset-padding{
+    padding-right: 0px;
+    padding-left: 0px;
+}

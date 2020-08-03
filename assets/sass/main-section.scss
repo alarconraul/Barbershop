@@ -1,0 +1,24 @@
+// main.scss # Manifest File
+// abstracts
+@import 'abstracts/variables';
+// vendors
+@import 'vendors/bootstrap-4.5.0/scss/bootstrap';
+@import 'vendors/jquery-ui';
+// base
+@import 'base/reset';
+@import 'base/typography';
+// components
+@import 'components/buttons';
+@import 'components/blog-title';
+@import 'components/blog-body';
+@import 'components/blog-bottom-section';
+@import 'components/pagination';
+// layout
+@import 'layout/footer';
+@import 'layout/navigation';
+@import 'layout/mobile';
+// pages
+@import 'pages/blog';
+// themes
+@import 'themes/theme';
+@import 'themes/admin';

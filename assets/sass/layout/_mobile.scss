@@ -1,0 +1,37 @@
+@media only screen 
+    and (min-device-width: 320px) 
+    and (max-device-width: 568px){    
+ 
+.logo{
+        width: $logoMobile;
+    }
+h1{
+    justify-content: center;
+    color: $whiteColor;
+    font-family: $fontPlayfair;
+    font-size: 23px;
+    font-weight: 700;
+    font-style: italic;
+    display: block;
+    position: absolute;
+    width: 100%;
+    padding-left: 38px;
+    top: 120px;
+}
+        
+.main-title__image{
+    object-fit: cover;
+    height: auto;
+    display: block;
+    position: relative;
+    padding-bottom: 40px;
+}
+.reset-padding{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.hide-content{
+    display: none;
+}
+
+}
